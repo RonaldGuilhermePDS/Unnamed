@@ -33,6 +33,7 @@
       "@typescript-eslint"
   ],
   "rules": {
+    "global-require": "off",
     "import-helpers/order-imports": [
       "error",
       {
