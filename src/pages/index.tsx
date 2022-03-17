@@ -72,9 +72,11 @@ export default function Home() {
             </div>
             <div className="flex mt-8">
               <text className="text-white text-xl font-semibold">
-                Travel with Elon Musk and Jeff Bezos.Travel with Elon Musk and
-                Jeff Bezos.Travel with Elon Musk and Jeff Bezos.Travel with Elon
-                Musk and Jeff Bezos.Travel with Elon Musk and Jeff Bezos.
+                Elon Musk and Jeff Bezos are one of the most innovative and
+                seemingly wild entrepreneurs in the world. Its initiatives
+                include clean energy projects, automobile innovations,
+                artificial intelligence, neurotechnology and even aerospace
+                travel.
               </text>
             </div>
 
